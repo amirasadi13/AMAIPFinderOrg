@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+    <item
+        android:id="@+id/go_to_ip_ranges_page"
+        android:icon="@drawable/ic_insert_chart_black_24dp"
+        android:title="Ip country ranges" />
+    </group>
+    <group>
+    <item
+        android:id="@+id/go_to_domain_search_page"
+        android:icon="@drawable/ic_rss_feed_black_24dp"
+        android:title="Ping URL" />
+    </group>
+    <group>
+    <item
+        android:id="@+id/go_to_as_information_page"
+        android:icon="@drawable/ic_swap_calls_black_24dp"
+        android:title="AS Information" />
+    </group>
+    <group>
+    <item
+        android:id="@+id/go_to_contactus_page"
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:title="Contact Us"
+        />
+    </group>
+    <group>
+    <item
+        android:id="@+id/go_to_privacy_policy"
+        android:icon="@drawable/ic_baseline_policy_24"
+        android:title="Privacy and Policy"
+        />
+    </group>
+</menu>
